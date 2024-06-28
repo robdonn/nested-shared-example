@@ -1,0 +1,8 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "NEXT_PRIVATE_LOCAL_WEBPACK=true next dev"
+  }
+}
